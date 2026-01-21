@@ -1,0 +1,6 @@
+num1 = input('Enter number 1: ')
+num1 = float(num1)
+num2 = input('Enter number 2: ')
+num2  = float(num2)
+avr = ((num1 + num2) /2)
+print ('The average number between',num1,'and',num2,'is',avr)

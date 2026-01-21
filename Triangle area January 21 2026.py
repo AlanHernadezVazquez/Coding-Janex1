@@ -1,0 +1,8 @@
+length = input('Enter length: ')
+length = float(length)
+base = input('Enter base: ')
+base = float(base)
+height = input('Enter height: ')
+height = float(height)
+area = (0.5 * base * height)
+print('The area is: ',area,'units squared')

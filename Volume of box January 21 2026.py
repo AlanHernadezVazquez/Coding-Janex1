@@ -1,0 +1,8 @@
+length = input('Enter length: ')
+length = float(length)
+width = input('Enter width: ')
+width = float(width)
+height = input('Enter height: ')
+height = float(height)
+vol = (length * width * height)
+print('Volume: ',vol,'units cubed')
