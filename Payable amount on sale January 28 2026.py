@@ -7,3 +7,5 @@ if (region == 'national'):
 elif(region == 'foreign'):
     sale_price2 = (sale_price * 1.18)
     print('The total is:',sale_price2,'euros')
+else:
+    print('Error')
